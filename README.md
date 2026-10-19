@@ -104,7 +104,7 @@ MODE: Extracting
 ```
 
 ### Optional Options and Flags
-Below are all the *required* arguments for the program labeled by their associated mode:
+Below are all the *optional* arguments for the program labeled by their associated mode:
 ```
 MODE: Embedding
 -nt, --noTis
