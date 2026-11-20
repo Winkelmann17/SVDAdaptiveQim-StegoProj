@@ -300,7 +300,7 @@ def print_intro_info():
     print("\n" \
         "Robust JPEG Image Steganography Using Wavelet Domain SVD" \
         "and Adaptive QIM algorithm implementation.")
-    print("This program was written by Nicholas Winkelmann.\n")
+    print("This program was written by Winkelmann17.\n")
     print(f"Most recent update: {UPDATE_DATE}")
     print(RECENT_CHANGES)
     print("========================================================")
